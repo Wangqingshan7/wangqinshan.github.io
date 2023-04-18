@@ -1,2 +1,2 @@
-# wangqinshan.github.io
+# Wangqinshan
 Hello Github
